@@ -1,5 +1,5 @@
 {
-  "name": "flagbit/table-attribute-bundle",
+  "name": "justbetter/akeneo-table-attribute-bundle",
   "description": "The Flagbit Table Attribute Bundle for Akeneo PIM gives you the possibility to enrich your product with multi-dimensional data presentation in the form of tables, allowing you maximum flexibility within the PIM.",
   "keywords": [
     "akeneo",
@@ -39,9 +39,9 @@
     }
   },
   "require": {
-    "php": "8.0.*",
+    "php": "8.1.*",
     "ext-json": "*",
-    "akeneo/pim-community-dev": "^6.0"
+    "akeneo/pim-community-dev": "^7.0"
   },
   "require-dev": {
     "phpspec/phpspec": "^7.2",
